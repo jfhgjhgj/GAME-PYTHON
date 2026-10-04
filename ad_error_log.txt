@@ -1,0 +1,10 @@
+Error: No connection adapters were found for '[https://placehold.co/300x80/png?text=Your+Ad+Here](https://placehold.co/300x80/png?text=Your+Ad+Here)'
+Error: Unsupported image format
+Error: Unsupported image format
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Max retries exceeded with url: /get-ad (Caused by NameResolutionError("HTTPSConnection(host='moh12398.pythonanywhere.com', port=443): Failed to resolve 'moh12398.pythonanywhere.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Read timed out. (read timeout=3)
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Max retries exceeded with url: /get-ad (Caused by NameResolutionError("HTTPSConnection(host='moh12398.pythonanywhere.com', port=443): Failed to resolve 'moh12398.pythonanywhere.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Max retries exceeded with url: /get-ad (Caused by NameResolutionError("HTTPSConnection(host='moh12398.pythonanywhere.com', port=443): Failed to resolve 'moh12398.pythonanywhere.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Read timed out. (read timeout=3)
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Read timed out. (read timeout=3)
+Error: HTTPSConnectionPool(host='moh12398.pythonanywhere.com', port=443): Read timed out. (read timeout=3)
